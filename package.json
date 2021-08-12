@@ -1,0 +1,16 @@
+{
+  "name": "stringCalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Clinton",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
